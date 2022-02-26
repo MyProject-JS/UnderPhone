@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TestCube
+  - puzzle1
+  - Desk
+  - SaveButton
+  - Wall
+  - Cabinet
+  - BackGround
+  - MGR
+  - SOMA
+  - Crafting
+  - Q2
+  - Cube1
+  - Cube2
+  - Cube3
+  - Prass
+  - StartButton
+  - Exit
+  - Connect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Interaction
+  - Postprocessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
